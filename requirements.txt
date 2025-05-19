@@ -11,3 +11,4 @@ lscsoft-glue
 gwdatafind
 requests
 hmf
+pandas
